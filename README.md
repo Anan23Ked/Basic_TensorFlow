@@ -11,4 +11,4 @@ Activation Function - A function added to obtain the results of non linear input
 >> ReLU- The rectified linear activation function or ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero
 >> Softmax - Calculates the probablities of occurances of the output layer and helps in classifying to the max probablity class
 
-3 epochs are runed in this project
+3 epochs or iterations are runned in this project

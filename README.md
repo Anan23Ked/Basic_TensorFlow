@@ -11,7 +11,9 @@ The Dense model in Keras ensures that the outputs of all the neurons in a layer 
 
 Activation Function - A function added to obtain the results of non-linear inputs
 > Ones used here:
+
 >> ReLU- The rectified linear activation function or ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero
+
 >> Softmax - Calculates the probabilities of occurrences of the output layer and helps in classifying to the max probability class
 
 3 epochs or iterations are run in this project
